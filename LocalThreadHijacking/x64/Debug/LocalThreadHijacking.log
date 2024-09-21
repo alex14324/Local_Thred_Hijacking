@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\MD\35.LocalThreadHijacking\LocalThreadHijacking\LocalThreadHijacking\main.c(127,16): warning C4047: '=': 'DWORD64' differs in levels of indirection from 'PVOID'
+C:\Users\Administrator\Desktop\MD\35.LocalThreadHijacking\LocalThreadHijacking\LocalThreadHijacking\main.c(96,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\35.LocalThreadHijacking\LocalThreadHijacking\LocalThreadHijacking\main.c(154,31): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\35.LocalThreadHijacking\LocalThreadHijacking\LocalThreadHijacking\main.c(154,31): warning C4024: 'CreateThread': different types for formal and actual parameter 2
+C:\Users\Administrator\Desktop\MD\35.LocalThreadHijacking\LocalThreadHijacking\LocalThreadHijacking\main.c(151,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  LocalThreadHijacking.vcxproj -> C:\Users\Administrator\Desktop\MD\35.LocalThreadHijacking\LocalThreadHijacking\x64\Debug\LocalThreadHijacking.exe
